@@ -1,0 +1,7 @@
+[fetch]
+	prune = false
+[pull]
+	rebase = false
+[user]
+	email = 
+	name = 
